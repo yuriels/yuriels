@@ -47,8 +47,8 @@ Hello, I am Yuriel 😎 aged 22 👶‍♂️, a tech geek 💻👨‍💻 who's
 
 
 <h3 align="left">🤗<b>Medals and Events:</b></h3>
-<img src="https://github-profile-trophy.vercel.app/?username=keemoir&no-frame=true" />
-<img src="https://github-readme-activity-graph.vercel.app/graph?username=keemoir&theme=react-dark" />
+<img src="https://github-profile-trophy.vercel.app/?username=yuriels&no-frame=true" />
+<img src="https://github-readme-activity-graph.vercel.app/graph?username=yuriels&theme=react-dark" />
 
 <h3 align="left">📠<b>Connect with me:</b></h3>
 <p align="left">
