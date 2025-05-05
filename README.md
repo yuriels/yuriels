@@ -9,11 +9,11 @@ Hello, I am Yuriel 😎 aged 22 👶‍♂️, a tech geek 💻👨‍💻 who's
 
 - 👨‍💻 All of my projects are available at [MyPage](https://yuriels.github.io)
 
-- 📝 I regularly write articles on [My Blog](https://blog.origz.com)
+- 📝 I regularly write articles on [My Blog](https://blog.yuriel.cn)
 
-- 📫 How to reach me [Mail↗](mailto:yurielsx@gmail.com)
+- 📫 How to reach me [Mail↗](mailto:yurielhe@gmail.com)
 
-- 📄 Know about my experiences [Look↗](https://origz.com/me)
+- 📄 Know about my experiences [Look↗](https://yuriel.cn/me)
 
 - ⚡ Follow my social platforms [Go↗](https://vlink.cc/yuriels) 
 
