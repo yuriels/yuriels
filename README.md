@@ -15,7 +15,7 @@ Hello, I am Yuriel 😎 aged 22 👶‍♂️, a tech geek 💻👨‍💻 who's
 
 - 📄 Know about my experiences [Look↗](https://yuriel.cn/me)
 
-- ⚡ Follow my social platforms [Go↗](https://vlink.cc/yuriels) 
+- ⚡ Follow my social platforms [Go↗](https://vlink.cc/yuriel) 
 
 - 💬 More to be added...
 
